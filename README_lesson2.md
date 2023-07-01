@@ -32,3 +32,4 @@ git reset --soft
 ```
 git restore 
 ``
+* git reset @~ один Коммит назад
