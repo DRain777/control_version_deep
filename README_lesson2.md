@@ -1,6 +1,6 @@
 # Контроль версий углублённо (GIT) (семинары)
 
-![picture for containerization]()
+![DEEP_CONTROL_VERSION]()
 
 * Работа с изменениями 
 
@@ -33,3 +33,22 @@ git reset --soft
 git restore 
 ``
 * git reset @~ один Коммит назад
+
+
+
+
+ * 2 Верните эти изменения командой git revert последовательно, чтобы в итоге получилось тоже  три коммита.
+![DEEP_CONTROL_VERSION]()
+
+
+
+
+
+
+
+
+
+
+
+
+
