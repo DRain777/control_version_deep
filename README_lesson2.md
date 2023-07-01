@@ -1,4 +1,4 @@
-# Контроль версий углублённо (GIT) (семинары)
+# Контроль версий DEEP (GIT) (семинары)
 
 ![DEEP_CONTROL_VERSION](https://github.com/DRain777/control_version_deep/blob/main/python_shell/source/GitHub_Cat.webp)
 
