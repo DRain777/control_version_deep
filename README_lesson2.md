@@ -46,19 +46,19 @@ git restore
     последний — командами git reset --soft и git restore;
 
 
-[DEEP_CONTROL_VERSION](https://github.com/DRain777/control_version_deep/blob/main/python_shell/source/2_reset_soft.png)
+![DEEP_CONTROL_VERSION](https://github.com/DRain777/control_version_deep/blob/main/python_shell/source/2_reset_soft.png)
 
-[DEEP_CONTROL_VERSION](https://github.com/DRain777/control_version_deep/blob/main/python_shell/source/3_Restore_staged.png)
+![DEEP_CONTROL_VERSION](https://github.com/DRain777/control_version_deep/blob/main/python_shell/source/3_Restore_staged.png)
 
  * предпоследний — командой git reset --mixed и git restore;
 
-[DEEP_CONTROL_VERSION](https://github.com/DRain777/control_version_deep/blob/main/python_shell/source/4.png)
+![DEEP_CONTROL_VERSION](https://github.com/DRain777/control_version_deep/blob/main/python_shell/source/4.png)
 
 
 
 * первый — командой git reset --hard.
 
-[DEEP_CONTROL_VERSION](https://github.com/DRain777/control_version_deep/blob/main/python_shell/source/5.png)
+![DEEP_CONTROL_VERSION](https://github.com/DRain777/control_version_deep/blob/main/python_shell/source/5.png)
 
 
 
