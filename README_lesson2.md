@@ -1,6 +1,6 @@
 # Контроль версий углублённо (GIT) (семинары)
 
-![DEEP_CONTROL_VERSION]()
+![DEEP_CONTROL_VERSION](https://github.com/DRain777/control_version_deep/blob/main/python_shell/source/GitHub_Cat.webp)
 
 * Работа с изменениями 
 
@@ -38,7 +38,41 @@ git restore
 
 
  * 2 Верните эти изменения командой git revert последовательно, чтобы в итоге получилось тоже  три коммита.
-![DEEP_CONTROL_VERSION]()
+![DEEP_CONTROL_VERSION](https://github.com/DRain777/control_version_deep/blob/main/python_shell/source/1_git_revert_3commit.png)
+
+
+
+* 3  Отменим эти 3 коммита:
+    последний — командами git reset --soft и git restore;
+
+
+[DEEP_CONTROL_VERSION](https://github.com/DRain777/control_version_deep/blob/main/python_shell/source/2_reset_soft.png)
+
+[DEEP_CONTROL_VERSION](https://github.com/DRain777/control_version_deep/blob/main/python_shell/source/3_Restore_staged.png)
+
+ * предпоследний — командой git reset --mixed и git restore;
+
+[DEEP_CONTROL_VERSION](https://github.com/DRain777/control_version_deep/blob/main/python_shell/source/4.png)
+
+
+
+* первый — командой git reset --hard.
+
+[DEEP_CONTROL_VERSION](https://github.com/DRain777/control_version_deep/blob/main/python_shell/source/5.png)
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
 
 
 
